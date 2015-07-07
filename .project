@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>RubyTest</name>
+=======
+	<name>HackathonBible</name>
+>>>>>>> 3fc419ef45b1069731aaf08bbf8a0ffcafc156f1
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>com.aptana.ide.core.unifiedBuilder</name>
+=======
+			<name>org.eclipse.jdt.core.javabuilder</name>
+>>>>>>> 3fc419ef45b1069731aaf08bbf8a0ffcafc156f1
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
+<<<<<<< HEAD
 		<nature>com.aptana.ruby.core.rubynature</nature>
 		<nature>com.aptana.projects.webnature</nature>
+=======
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> 3fc419ef45b1069731aaf08bbf8a0ffcafc156f1
 	</natures>
 </projectDescription>

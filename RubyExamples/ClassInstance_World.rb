@@ -1,0 +1,2 @@
+puts "Location"
+gets

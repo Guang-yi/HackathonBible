@@ -1,2 +1,0 @@
-puts "Location"
-gets
